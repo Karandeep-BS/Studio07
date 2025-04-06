@@ -1,6 +1,7 @@
 import Heading from "./Heading/heading";
 import Hero from "./Hero/heroSection";
 import Button from "./Hero/Buttom";
+import Services from "./Services/Services";
 import "./App.css";
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
       <div  className="frame flex items-center justify-center h-full w-full p-[40px] gap-[10px] top-[64px] left-[3px] flex-col ">
         <Hero />
         <Button />
+        <Services />
       </div>
     </div>
   );
