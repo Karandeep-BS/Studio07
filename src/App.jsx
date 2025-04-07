@@ -2,6 +2,8 @@ import Heading from "./Heading/heading";
 import Hero from "./Hero/heroSection";
 import Button from "./Hero/Buttom";
 import Services from "./Services/Services";
+import Work from "./work/work";
+import Socials from "./Social/socials";
 import "./App.css";
 function App() {
   return (
@@ -11,6 +13,8 @@ function App() {
         <Hero />
         <Button />
         <Services />
+        <Work />
+        {/* <Socials /> */}
       </div>
     </div>
   );

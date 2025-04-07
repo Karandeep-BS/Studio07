@@ -20,7 +20,7 @@ export default function Hero() {
                 App Design
             </h4>
 
-            <h1 className="w-[714px] h-[317px] text-[128px] leading-[108px] tracking-[0px] font=Sansation text-white font-[700] right-[7%] bottom-[25%] absolute z-10">
+            <h1 className="w-[714px] h-[317px] text-[128px] leading-[108px] tracking-[0px] font-sansation text-white font-[700] right-[7%] bottom-[25%] absolute z-10">
                 WE BUILD DIGITAL PRODUCTS
             </h1>
 

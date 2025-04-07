@@ -4,9 +4,9 @@ export default function Info(){
     return (
         <div className="idea relative mt-[5%]">
             <div>
-                <h1 className="w-[520px] h-[165px] text-[96px] flex flex-col leading-[84px] tracking-[-4px] text-white font-[300] top-[50%] ">
+                <h1 className="w-[520px] h-[165px] text-[96px] font-sansation flex flex-col leading-[84px] tracking-[-4px] text-white font-[300] top-[50%] ">
                     From idea 
-                    <span className="font-[400]">
+                    <span className="font-sansation font-[400]">
                     to design
                     </span>
                 </h1>
