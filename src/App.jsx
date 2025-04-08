@@ -4,6 +4,7 @@ import Button from "./Hero/Buttom";
 import Services from "./Services/Services";
 import Work from "./work/work";
 import Socials from "./Social/socials";
+import Footer from "./Footer/footer";
 import "./App.css";
 function App() {
   return (
@@ -14,7 +15,8 @@ function App() {
         <Button />
         <Services />
         <Work />
-        {/* <Socials /> */}
+        <Socials />
+        <Footer />
       </div>
     </div>
   );
