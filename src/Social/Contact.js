@@ -1,6 +1,8 @@
+import Contact_Ellipse from "../Ellipse/contact_Ellipse"
 export default function Contact(){
     return (
         <div className="contact w-full h-[400px] relative ">
+            <Contact_Ellipse />
             <h1 className="w-[520px] h-[165px] text-[96px] font-sansation flex flex-col leading-[84px] tracking-[10px] text-white font-mormal top-[50%] ">
                     LET’S 
                     <span className="font-sansation font-normal">
